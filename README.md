@@ -11,4 +11,4 @@ A web-based application that scrapes Google News and ranks articles based on use
 ## ⚙️ Run Project
 ```bash
 pip install flask requests beautifulsoup4
-python Real time social media feed with trending algorithm.py
+python "Real time social media feed with trending algorithm.py"
